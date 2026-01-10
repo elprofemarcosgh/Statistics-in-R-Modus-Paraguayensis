@@ -15,6 +15,6 @@ Un ejemplo de aplicación de análisis descriptivo estadístico de datos agrupad
 
 
 * 🌐 **Versión Interactiva:** [Ver en RPubs](https://rpubs.com/marcos_hermosa/stat-in-r-trabajo1)
-* 📊 **Base de datos:** [Descargar .csv](trabajo%231/datos_para_tabla_est.csv)
-* 💻 **Código Fuente:** [Explorar .Rmd](trabajo%231/analisis_datos_agrupados_para_html.Rmd)
+* 📊 **Base de datos:** [Descargar](https://github.com/elprofemarcosgh/Statistics-in-R-Modus-Paraguayensis/blob/main/trabajo%231/datos_para_tabla_est.csv)
+* 💻 **Código Fuente:** [Explorar código](https://github.com/elprofemarcosgh/Statistics-in-R-Modus-Paraguayensis/blob/main/trabajo%231/analisis_datos_agrupados_para_html.Rmd)
 ---
