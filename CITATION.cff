@@ -1,18 +1,10 @@
 cff-version: 1.2.0
-message: "Si utiliza este material, por favor cítelo como se indica a continuación."
+message: "Si utiliza cualquier material de esta serie, por favor cítelo como se indica a continuación."
 authors:
   - family-names: "Gómez-Hermosa"
     given-names: "Marcos"
     orcid: "https://orcid.org/0000-0003-0737-7997"
-title: "Análisis de un índice para el Análisis de la Articulación Académico-Profesional de estudiantes en situación de empleo (Trabajo #1)"
+title: "Colección Statistics in R - Modus Paraguayensis"
 version: 1.0.0
 date-released: 2026-01-10
-url: "https://github.com/elprofemarcosgh/Statistics-in-R-Modus-Paraguayensis"
-preferred-citation:
-  type: article
-  authors:
-    - family-names: "Gómez-Hermosa"
-      given-names: "Marcos"
-  title: "Morfología de datos y caracterización del IAAP en estudiantes de la FACE-UCI"
-  year: 2026
-  collection-title: "Serie Statistics in R - Modus Paraguayensis"
+url: "https://github.com/elprofemarcosgh/Statistics-in-R-Modus-Paraguayensis""
