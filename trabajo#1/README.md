@@ -1,6 +1,6 @@
 # Statistics in R -- Modus Paraguayensis
 
-Serie de cuadernos técnicos dedicados a la migración del análisis estadístico convencional hacia el lenguaje de programación R, con énfasis en la reproducibilidad y la interpretación clínica de datos económicos y sociales.
+Serie de cuadernos técnicos dedicados a la migración del análisis estadístico convencional hacia el lenguaje de programación R, con énfasis en la reproducibilidad y la interpretación de datos económicos y sociales.
 
 # Trabajo #1: Análisis de un índice para el Análisis de la Articulación Académico-Profesional de estudiantes en situación de empleo
 
@@ -16,5 +16,5 @@ Un ejemplo de aplicación de análisis descriptivo estadístico de datos agrupad
 
 * 🌐 **Versión Interactiva:** [Ver en RPubs](https://rpubs.com/marcos_hermosa/stat-in-r-trabajo1)
 * 📊 **Base de datos:** [Descargar](https://github.com/elprofemarcosgh/Statistics-in-R-Modus-Paraguayensis/blob/main/trabajo%231/datos_para_tabla_est.csv)
-* 💻 **Código Fuente:** [Explorar código](https://github.com/elprofemarcosgh/Statistics-in-R-Modus-Paraguayensis/blob/main/trabajo%231/analisis_datos_agrupados_para_html.Rmd)
+* 💻 **Rscript:** [Explorar código](https://github.com/elprofemarcosgh/Statistics-in-R-Modus-Paraguayensis/blob/main/trabajo%231/analisis_datos_agrupados_para_html.Rmd](https://github.com/elprofemarcosgh/Statistics-in-R-Modus-Paraguayensis/blob/main/trabajo%231/trabajo1_statistics_in_r_modus_paraguayensis_rscript.R))
 ---
