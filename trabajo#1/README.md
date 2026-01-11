@@ -8,9 +8,9 @@ Serie de cuadernos técnicos dedicados a la migración del análisis estadístic
 **Institución:** Facultad de Ciencias Económicas (FACE) - Universidad Católica Campus Itapúa (UCI)  
 **Ubicación:** Encarnación, Paraguay -- 2026
 
-## 📂 Contenido de la Serie
+## 📂 Contenido de esta entrega
 
-### [01. Análisis de un índice para el Análisis de la Articulación Académico-Profesional de estudiantes en situación de empleo](Statistics-in-R-Modus-Paraguayensis/trabajo#1)
+### [01. Análisis de un índice para la Articulación Académico-Profesional de estudiantes en situación de empleo](Statistics-in-R-Modus-Paraguayensis/trabajo#1)
 Un ejemplo de aplicación de análisis descriptivo estadístico de datos agrupados
 
 
