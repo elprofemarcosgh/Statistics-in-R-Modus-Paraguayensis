@@ -20,7 +20,7 @@ Este material está dirigido a estudiantes de cursos básicos e iniciales de est
 Un ejemplo de aplicación de análisis descriptivo estadístico de datos agrupados
 
 
-* 🌐 **Versión Interactiva:** [Ver en RPubs](https://rpubs.com/marcos_hermosa/stat-in-r-trabajo1)
+* 🌐 **Versión Interactiva:** [Ver en RPubs](https://rpubs.com/marcos_hermosa/stat-in-r-trabajo1_)
 * 📊 **Base de datos:** [Descargar](https://github.com/elprofemarcosgh/Statistics-in-R-Modus-Paraguayensis/blob/main/trabajo%231/datos_para_tabla_est.csv)
 * 💻 **Rscript:** [Explorar código](https://github.com/elprofemarcosgh/Statistics-in-R-Modus-Paraguayensis/blob/main/trabajo%231/trabajo1_statistics_in_r_modus_paraguayensis_rscript.R))
 ---
