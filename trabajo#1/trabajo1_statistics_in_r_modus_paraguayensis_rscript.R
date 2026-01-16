@@ -6,6 +6,8 @@
 
 ## Librerias
 
+library(knitr)
+library(kableExtra)
 library(tinytex)
 library(readr)
 library(dplyr)
@@ -313,4 +315,5 @@ ggplot(df_indices, aes(x = IAAP)) +
        x = "Puntaje IAAP",
        y = "Densidad") +
   theme_minimal()
+
 
