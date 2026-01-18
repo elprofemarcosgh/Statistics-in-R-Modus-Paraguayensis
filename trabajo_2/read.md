@@ -9,11 +9,12 @@ Las bases de datos fueron construidas bajo simulación, de modo a colaborar con 
 Este material está dirigido a estudiantes de cursos básicos e iniciales de estadística que buscan integrar la programación en <strong>R</strong> con las nociones fundamentales de estadística descriptiva e inferencial. El material se enfoca en la interpretación funcional de los resultados, delegando las discusiones sobre la profundidad del rigor técnico o validaciones metodológicas avanzadas para instancias posteriores de formación o literatura académica especializada.
 
 # Trabajo #2: Análisis de un índice para el Análisis de la Articulación Académico-Profesional de estudiantes en situación de empleo
-Un ejemplo de aplicación de análisis descriptivo estadístico de datos # no agrupados #
+Un ejemplo de aplicación de análisis descriptivo estadístico de datos **no agrupados**.
+
 **Autor:** Mag. Econ. Marcos Gómez Hermosa  
 **Institución:** Facultad de Ciencias Económicas (FACE) - Universidad Católica Campus Itapúa (UCI)  
 **Ubicación:** Encarnación, Paraguay -- 2026
 
-* 🌐 **Versión Interactiva:** [Ver en RPubs]()
-* 📊 **Base de datos:** [Descargar]()
-* 💻 **Rscript:** [Descargar]()
+* 🌐 **Versión Interactiva:** [Ver_en_rpubs](https://rpubs.com/marcos_hermosa/stat-in-r-trabajo2)
+* 📊 **Base de datos:** [Descargar](https://github.com/elprofemarcosgh/Statistics-in-R-Modus-Paraguayensis/blob/main/trabajo_2/datos_para_tabla_est.csv)
+* 💻 **Rscript:** [Descargar](https://github.com/elprofemarcosgh/Statistics-in-R-Modus-Paraguayensis/blob/main/trabajo_2/trabajo2_statistics_in_r_modus_paraguayensis_para_pdf.R)
